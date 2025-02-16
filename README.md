@@ -1,2 +1,2 @@
 # My-web
-I have created this Website on my own
+I have created the E-Commerce website clone on my own
